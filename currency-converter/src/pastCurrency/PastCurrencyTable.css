@@ -1,0 +1,25 @@
+.table{
+    width: 100%;
+}
+
+.table-header {
+background-color: rgb(51, 56, 123);
+color:aliceblue;
+border: 1px black solid;
+}
+
+.table-body {
+    border: 1px black solid;
+    text-align: center;
+    }
+
+.bordered{
+    border: 1px black solid;
+}
+
+.past-amount-select {
+    float:right;
+}
+.error {
+    background-color: red;
+}
